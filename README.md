@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Mental Health Signal
 
 A full-stack machine learning project that predicts a student's mental health signal based on digital habits, academic lifestyle, and stress indicators. The project combines a trained scikit-learn model, a FastAPI backend, and a responsive front-end dashboard for interactive prediction.
@@ -273,3 +274,7 @@ If you want, I can also create:
 2. a LICENSE file,
 3. a .gitignore file, or
 4. a production-ready deployment version for Render/Azure.
+=======
+# mentalhealthsignal
+It tell the mental health score by ml trained model.
+>>>>>>> ccba2c25dc1377cfdf0892437c9f6c8e6dfc48db
